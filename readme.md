@@ -5,3 +5,6 @@ Hi!
 
 
 fixed an error(2)
+
+
+fixed a bug(3)
